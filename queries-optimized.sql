@@ -1,4 +1,4 @@
-**In Respective Order of the Queries in the queries.sql file
+/**In Respective Order Of The Queries In The queries.sql File */
 -----------------------------------------------------------------------------------------
 SELECT
   product_description AS Product_Recalled,
